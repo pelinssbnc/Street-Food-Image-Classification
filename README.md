@@ -29,7 +29,3 @@ Temel hedefler:
 | Ortam           | Jupyter Notebook / Google Colab      |
 
 ---
-
-1. ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/sokak-yemegi-goruntu-siniflandirma.git
-   cd sokak-yemegi-goruntu-siniflandirma
