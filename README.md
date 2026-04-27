@@ -1,2 +1,35 @@
-# Street-Food-Image-Classification
-Farklı ülke ve kültürlere ait sokak yemeklerinin görüntülerini otomatik olarak tanımlayan bu projede; transfer öğrenme (MobileNet, ResNet vb.) yöntemleri kullanılarak yüksek doğruluklu bir görüntü sınıflandırıcı geliştirilmektedir.
+# 🍜 Sokak Yemeği Görüntü Sınıflandırma
+
+CNN ve transfer öğrenme yöntemleriyle sokak yemeklerinin
+fotoğraflarını otomatik sınıflandıran derin öğrenme projesi.
+
+---
+
+## 📌 Genel Bakış
+
+Gıda teknolojisi ve seyahat uygulamalarına yönelik bu projede;
+farklı sokak yemeklerinin görselleri derin öğrenme modelleriyle
+kategorilere ayrılmaktadır.
+
+Temel hedefler:
+- Görüntü veri artırma (augmentation) uygulama
+- Önceden eğitilmiş model (Transfer Learning) kullanma
+- Çok sınıflı sınıflandırma performansını ölçme
+
+---
+
+## 🛠️ Teknoloji 
+
+| Kategori        | Araçlar / Kütüphaneler               |
+|----------------|--------------------------------------|
+| Dil             | Python 3.x                           |
+| Derin Öğrenme   | TensorFlow / Keras veya PyTorch      |
+| Transfer Öğrenme| MobileNetV2, ResNet50, EfficientNet  |
+| Görselleştirme  | Matplotlib                           |
+| Ortam           | Jupyter Notebook / Google Colab      |
+
+---
+
+1. ```bash
+   git clone https://github.com/KULLANICI_ADINIZ/sokak-yemegi-goruntu-siniflandirma.git
+   cd sokak-yemegi-goruntu-siniflandirma
